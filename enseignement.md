@@ -5,11 +5,11 @@ permalink: /enseignement/
 
 ## 2020-2022
 
-- **Enseignement préparatoire aux mathématiques en sciences du vivant** (23h)\\
+- **Enseignement préparatoire aux mathématiques en sciences du vivant** (23h/an)\\
   Cursus : L1 Sciences de la vie\\
   Université de Strasbourg, Strasbourg, France
 
-- **Espaces euclidiens, dualité, algèbre bilinéaire : TD** (34h)\\
+- **Espaces euclidiens, dualité, algèbre bilinéaire : TD** (34h/an)\\
   Cursus : L2 Mathématiques\\
   Université de Strasbourg, Strasbourg, France
 

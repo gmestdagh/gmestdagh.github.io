@@ -13,23 +13,30 @@ permalink: /research/
 
 ## Journal articles
 
+{: reversed="reversed"}
+
 1.  **Scaled projected-directions methods with application to transmission tomography** \\
     G. Mestdagh, Y. Goussard & D. Orban.
     *Optimization and Engineering* (2020)\\
     ([article](https://link.springer.com/article/10.1007/s11081-020-09484-0),
      [arxiv](https://arxiv.org/abs/2001.06474))
      
+## Conference proceedings
+
 {: reversed="reversed"}
 
-## Conference proceedings
+2.  **Real-time Elastic Partial Shape Matching Using a Neural Network-Based Adjoint Method**\\
+    A. Odot, G. Mestdagh, Y. Privat, S. Cotin.
+    *Optimization and Learning - OLA 2023*, May 2023, Malaga, Spain\\
+    ([preprint](https://hal.inria.fr/hal-04019777v1))
 
 1.  **An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery** \\
     G. Mestdagh, S. Cotin.
     *Medical Image Computing and Computer Assisted Intervention - MICCAI 2022*, September 2022, Singapore\\
     ([article](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8),
-     [preprint](https://hal.inria.fr/hal-03691913/document))
+     [preprint](https://hal.inria.fr/hal-03691913))
 
-{: reversed="reversed"}
+
 
 ## Oral presentations
 
@@ -44,13 +51,11 @@ permalink: /research/
 - **SOFA Week 2021**\\
   Strasbourg, France, November 23, 2021\\
   An adjoint method for surface matching with SofaPython3\\
-  ([slides](https://seafile.unistra.fr/f/0300b644162a4b4988cd/?dl=1),
-   [recording](https://youtu.be/xxoUlOtAkWk?t=9946))
+  ([recording](https://youtu.be/xxoUlOtAkWk?t=9946))
 
 - **Congress for Young Researchers in Applied Mathematics 2021**\\
   École polytechnique, Palaiseau, France, October 27-29, 2021\\
-  Optimal control for surface matching in liver surgery\\
-  ([poster](https://seafile.unistra.fr/f/399a32db7a9d45419115/?dl=1))
+  Optimal control for surface matching in liver surgery (poster)
 
 - **10th Congress of *Société des mathématiques appliquées et industrielles***\\
   La Grande-Motte, France, June 21-25, 2021\\
@@ -60,8 +65,7 @@ permalink: /research/
 - **MLMS Team Seminar**\\
   Strasbourg, France, April 13, 2021\\
   An optimal control approach for surface-matching in augmented surgery\\
-  ([slides](https://mlms.icube.unistra.fr/img_auth_namespace.php/a/af/The-talk-guillaume-Mestdagh-mlms2_compressed.pdf),
-   [recording](https://bbb-prod-rp.unistra.fr/playback/presentation/2.0/playback.html?meetingId=533ae45ea0af2d527ec1e5327d82c55046e22594-1618302376622))
+  ([slides](https://mlms.icube.unistra.fr/img_auth_namespace.php/a/af/The-talk-guillaume-Mestdagh-mlms2_compressed.pdf))
 
 - **Machine Learning Working Group**\\
   Strasbourg, France, April 7, 2021\\
@@ -74,7 +78,15 @@ permalink: /research/
 
 ## Unpublished
 
-- Master's thesis: [link](https://publications.polymtl.ca/4050)
+- **PhD thesis**\\
+  Defense on Decembre 13, 2022\\
+  ([thesis](https://hal.inria.fr/tel-03865304v2),
+  [slides](/assets/these-soutenance.pdf))
+
+- **Master's thesis**\\
+  Defense on August 29, 2019\\
+  ([thesis](https://publications.polymtl.ca/4050), 
+  [slides](/assets/master_soutenance.pdf))
 
 
 

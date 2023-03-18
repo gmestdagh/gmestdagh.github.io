@@ -5,11 +5,11 @@ permalink: /teaching/
 
 ## 2020-2022
 
-- **Mathematics for Life Sciences** (23 hrs)\\
+- **Mathematics for Life Sciences** (23 hrs/yr)\\
   Program: Licence in Life Sciences\\
   Université de Strasbourg, Strasbourg, France
 
-- **Euclidean spaces, duality, bilinear algebra: Tutorials** (34 hrs)\\
+- **Euclidean spaces, duality, bilinear algebra: Tutorials** (34 hrs/yr)\\
   Program: Licence in Mathematics\\
   Université de Strasbourg, Strasbourg, France
 
