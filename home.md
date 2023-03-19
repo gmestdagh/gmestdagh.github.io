@@ -11,7 +11,7 @@ I am working for the [Netflux ANR project][netflux], in collaboration with
 [Christophe Godin][cgodin] and [Alexis De Angeli][adeangeli].
 
 [mosaic]: https://team.inria.fr/mosaic/
-[netflux]: https://anr.fr/Projet-ANR-21-CE13-0039
+[netflux]: https://anr.fr/Project-ANR-21-CE13-0039
 [cgodin]: https://team.inria.fr/mosaic/welcome/team-members/christophe-godin/
 [adeangeli]: https://www1.montpellier.inra.fr/wp-inra/bpmp/en/research/the-teams/ion-flux-coordination-and-signaling-in-plant-cells-influx/
 
