@@ -11,6 +11,14 @@ permalink: /recherche/
 
 # Publications et communications
 
+## Preprints
+
+{: reversed="reversed"}
+
+1.  **Organ registration in augmented surgery from an optimal control perspective**\\
+    S. Cotin, G. Mestdagh, Y. Privat.\\
+    ([preprint](https://hal.science/hal-04043695v1))
+
 ## Articles de journal
 
 {: reversed="reversed"}
