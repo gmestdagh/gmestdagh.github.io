@@ -36,7 +36,8 @@ permalink: /research/
 2.  **Real-time Elastic Partial Shape Matching Using a Neural Network-Based Adjoint Method**\\
     A. Odot, G. Mestdagh, Y. Privat, S. Cotin.
     *Optimization and Learning - OLA 2023*, May 2023, Malaga, Spain\\
-    ([preprint](https://hal.inria.fr/hal-04019777v1))
+    ([article](https://link.springer.com/chapter/10.1007/978-3-031-34020-8_10),
+     [preprint](https://hal.inria.fr/hal-04019777v1))
 
 1.  **An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery** \\
     G. Mestdagh, S. Cotin.
@@ -47,6 +48,14 @@ permalink: /research/
 
 
 ## Oral presentations
+
+- **Mosaic Team Seminar**\\
+  Lyon, France, May 22, 2023\\
+  A simple model for stoma opening
+
+- **Modeling/Control Team Seminar**\\
+  Strasbourg, France, December 13, 2022\\
+  An optimal control formulation for organ registration in augmented surgery
 
 - **Canum 2022**\\
   Évian-les-Bains, France, June 18, 2022\\
