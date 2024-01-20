@@ -7,7 +7,7 @@ permalink: /recherche/
 
   - Commande optimale et optimisation de forme
   - Optimisation numérique
-  - Problèmes inverses
+  - Modélisation et calcul scientifique
 
 # Publications et communications
 

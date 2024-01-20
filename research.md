@@ -7,7 +7,7 @@ permalink: /research/
 
   - Optimal control and shape optimization
   - Numerical optimization
-  - Inverse problems
+  - Modeling and scientific computing
 
 # Publications and Talks
 
