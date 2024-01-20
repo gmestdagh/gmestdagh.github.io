@@ -23,13 +23,13 @@ en collaboration avec [Stéphane Cotin][scotin].
 
 [moco]: https://irma.math.unistra.fr/teams/moco.html
 [mimesis]: https://mimesis.inria.fr
-[yprivat]: https://irma.math.unistra.fr/~privat/
+[yprivat]: https://yannick-privat.perso.math.cnrs.fr/
 [scotin]: https://mimesis.inria.fr/speaker/stephane-cotin/
 
 De 2017 à 2019, j'étais étudiant en master recherche à
 Polytechnique Montréal sous la direction de
 [Yves Goussard][ygoussard] (Département de génie électrique)
-et de [Dominique Orban][dorban] (Gerad et département de 
+et de [Dominique Orban][dorban] (Gerad et département de
 mathématiques et génie industriel).
 
 [ygoussard]: https://www.polymtl.ca/expertises/goussard-yves

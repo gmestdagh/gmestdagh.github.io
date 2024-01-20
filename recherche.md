@@ -16,8 +16,10 @@ permalink: /recherche/
 {: reversed="reversed"}
 
 1.  **Organ registration in augmented surgery from an optimal control perspective**\\
-    S. Cotin, G. Mestdagh, Y. Privat.\\
-    ([preprint](https://hal.science/hal-04043695v1))
+    S. Cotin, G. Mestdagh, Y. Privat.
+    *Proceedings of the Royal Society A* (2024)\\
+    ([article] (https://dx.doi.org/10.1098/rspa.2023.0197),
+     [preprint](https://hal.science/hal-04043695v2))
 
 ## Articles de journal
 
@@ -28,7 +30,7 @@ permalink: /recherche/
     *Optimization and Engineering* (2020)\\
     ([article](https://link.springer.com/article/10.1007/s11081-020-09484-0),
      [arxiv](https://arxiv.org/abs/2001.06474))
-     
+
 ## Articles de conférence
 
 {: reversed="reversed"}
@@ -46,6 +48,18 @@ permalink: /recherche/
      [preprint](https://hal.inria.fr/hal-03691913))
 
 ## Présentations orales
+
+- **Séminaire de laboratoire RDP**\\
+  Lyon, France, 24 octobre 2023\\
+  A simple model for stoma opening
+
+- **Retraite d'équipe Mosaic**\\
+  Lyon, France, 20 octobre 2023\\
+  Just-in-time compilation in Python with Numba
+
+- **Groupe de travail Math-Bio Sud-Est**\\
+  Lyon, France, 14 septembre 2023\\
+  Contrôle optimal pour le recalage d’organe en chirurgie augmentée
 
 - **Séminaire d'équipe Mosaic**\\
   Lyon, France, 22 mai 2023\\
@@ -75,7 +89,6 @@ permalink: /recherche/
 - **Congrès SMAI 2021**\\
   La Grande-Motte, France, 21-25 juin 2021\\
   Appariement de surfaces par contrôle optimal en chirurgie augmentée\\
-  ([présentation](https://smai2021.math.univ-toulouse.fr/programme/soumission/presentation/14973d32-d67f-4570-9142-13c30d0dfa79/))
 
 - **Séminaire d'équipe MLMS**\\
   Strasbourg, France, 13 avril 2021\\
@@ -100,7 +113,7 @@ permalink: /recherche/
 
 - **Mémoire de maîtrise**\\
   Soutenu le 29 août 2019\\
-  ([mémoire](https://publications.polymtl.ca/4050), 
-  [présentation](/assets/master_soutenance.pdf))
+  ([mémoire](https://publications.polymtl.ca/4050),
+  [présentation](/assets/master-soutenance.pdf))
 
 

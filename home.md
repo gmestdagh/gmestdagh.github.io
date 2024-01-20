@@ -22,7 +22,7 @@ My advisors were [Yannick Privat][yprivat] and [Stéphane Cotin][scotin].
 
 [moco]: https://irma.math.unistra.fr/teams/moco.html
 [mimesis]: https://mimesis.inria.fr
-[yprivat]: https://irma.math.unistra.fr/~privat/
+[yprivat]: https://yannick-privat.perso.math.cnrs.fr/
 [scotin]: https://mimesis.inria.fr/speaker/stephane-cotin/
 
 From 2017 to 2019, I completed my Master's thesis at
