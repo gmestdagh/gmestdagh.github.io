@@ -7,23 +7,19 @@ permalink: /recherche/
 
   - Commande optimale et optimisation de forme
   - Optimisation numérique
-  - Problèmes inverses dans le domaine biomédical
+  - Problèmes inverses
 
 # Publications et communications
 
-## Preprints
+## Articles de journal
 
 {: reversed="reversed"}
 
 1.  **Organ registration in augmented surgery from an optimal control perspective**\\
     S. Cotin, G. Mestdagh, Y. Privat.
     *Proceedings of the Royal Society A* (2024)\\
-    ([article] (https://dx.doi.org/10.1098/rspa.2023.0197),
+    ([article](https://dx.doi.org/10.1098/rspa.2023.0197),
      [preprint](https://hal.science/hal-04043695v2))
-
-## Articles de journal
-
-{: reversed="reversed"}
 
 1.  **Scaled projected-directions methods with application to transmission tomography** \\
     G. Mestdagh, Y. Goussard & D. Orban.
@@ -47,7 +43,7 @@ permalink: /recherche/
     ([article](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8),
      [preprint](https://hal.inria.fr/hal-03691913))
 
-## Présentations orales
+## Autres présentations orales
 
 - **Séminaire de laboratoire RDP**\\
   Lyon, France, 24 octobre 2023\\

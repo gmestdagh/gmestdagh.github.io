@@ -7,23 +7,19 @@ permalink: /research/
 
   - Optimal control and shape optimization
   - Numerical optimization
-  - Inverse problems in biomedical engineering
+  - Inverse problems
 
 # Publications and Talks
 
-## Preprints
+## Journal articles
 
 {: reversed="reversed"}
 
 1.  **Organ registration in augmented surgery from an optimal control perspective**\\
     S. Cotin, G. Mestdagh, Y. Privat.
     *Proceedings of the Royal Society A* (2024)\\
-    ([article] (https://dx.doi.org/10.1098/rspa.2023.0197),
+    ([article](https://dx.doi.org/10.1098/rspa.2023.0197),
      [preprint](https://hal.science/hal-04043695v2))
-
-## Journal articles
-
-{: reversed="reversed"}
 
 1.  **Scaled projected-directions methods with application to transmission tomography** \\
     G. Mestdagh, Y. Goussard & D. Orban.
@@ -49,7 +45,7 @@ permalink: /research/
 
 
 
-## Oral presentations
+## Other oral presentations
 
 - **RDP Lab Meeting**\\
   Lyon, France, October 24, 2023\\
