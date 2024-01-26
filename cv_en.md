@@ -15,7 +15,7 @@ permalink: /cv_en/
   Create a simple model to highlight the most important protagonists in this
   biolological process.
 
-- **2019-2022 &mdash; Université de Strasbourg, Strasbourg, France**
+- **2019-2022 &mdash; Université de Strasbourg, Strasbourg, France**\\
   PhD in Applied Mathematics.\\
   Advisors: Yannick Privat (Mathematics) and Stéphane Cotin (Biomechanics).\\
   Volumic liver registration from partial surface data in augmented surgery.\\
@@ -25,7 +25,7 @@ permalink: /cv_en/
 
 - **2017-2019 &mdash; Polytechnique Montréal, Montreal QC, Canada**\\
   Master of Applied Sciences at the Department of Electrical Engineering.\\
-  Advisors : Yves Goussard (Electrical Engineering) and Dominique Orban 
+  Advisors : Yves Goussard (Electrical Engineering) and Dominique Orban
   (Mathematics).\\
   Adapted Newton and quasi-Newton methods for tomographic reconstruction in
   cylindrical coordinates.\\
@@ -41,18 +41,20 @@ permalink: /cv_en/
   Operational internship at the Department of Advanced Satellite Projects.\\
   Designed a small Earth observation platform and performed mission analysis.
 
-## Formation
+## Education
 
 - **2014-2017 &mdash; École polytechnique, Palaiseau, France**\\
   Master of Engineering with specialization in Mechanics and Applied Mathematics.
 
-## Compétences
+## Other competences
 
 - **Languages**\\
   French &ndash; Mother tongue\\
   English  &ndash; Working proficiency\\
   German &ndash; Basic
 
-- **Computing**\\
-  Matlab, Julia, C/C++, Python
-
+- **Scientific computing**\\
+  Python (Numpy, Scipy, Jax, Fenics, Pybind) \\
+  Julia \\
+  Matlab \\
+  C/C++

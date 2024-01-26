@@ -25,7 +25,7 @@ permalink: /cv/
 
 - **2017-2019 &mdash; Polytechnique Montréal, Montréal, Canada**\\
   Master de sciences appliquées au département de Génie électrique.\\
-  Direction : Yves Goussard (Génie électrique) et Dominique Orban 
+  Direction : Yves Goussard (Génie électrique) et Dominique Orban
   (Mathématiques).\\
   Adaptation de méthodes de Newton et quasi-Newton pour la reconstruction
   tomographique en coordonnées cylindriques.\\
@@ -40,7 +40,7 @@ permalink: /cv/
 
 - **2016 &mdash; Thales Alenia Space, Cannes, France**\\
   Stage en entreprise au département des avant-projets de satellites.\\
-  Analyse de mission et dimensionnement d'une petite plate-forme 
+  Analyse de mission et dimensionnement d'une petite plate-forme
   d'observation de la Terre.
 
 ## Formation
@@ -51,7 +51,7 @@ permalink: /cv/
 - **2012-2014 &mdash; Lycée Faidherbe, Lille, France**\\
   Classes préparatoires Mathématiques et physique.
 
-## Compétences
+## Divers
 
 - **Langues**\\
   Français &ndash; Langue maternelle\\
@@ -59,5 +59,7 @@ permalink: /cv/
   Allemand &ndash; Scolaire
 
 - **Calcul scientifique**\\
-  Matlab, Julia, C/C++, Python
-
+  Python (Numpy, Scipy, Jax, Fenics, Pybind) \\
+  Julia \\
+  Matlab \\
+  C/C++

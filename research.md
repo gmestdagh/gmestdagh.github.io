@@ -8,6 +8,7 @@ permalink: /research/
   - Optimal control and shape optimization
   - Numerical optimization
   - Modeling and scientific computing
+  - Interdisciplinary interactions
 
 # Publications and Talks
 
@@ -27,7 +28,7 @@ permalink: /research/
     ([article](https://link.springer.com/article/10.1007/s11081-020-09484-0),
      [arxiv](https://arxiv.org/abs/2001.06474))
 
-## Conference proceedings
+## Conference papers
 
 {: reversed="reversed"}
 
@@ -113,6 +114,3 @@ permalink: /research/
   Defense on August 29, 2019\\
   ([thesis](https://publications.polymtl.ca/4050),
   [slides](/assets/master-soutenance.pdf))
-
-
-

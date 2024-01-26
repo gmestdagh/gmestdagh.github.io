@@ -8,6 +8,7 @@ permalink: /recherche/
   - Commande optimale et optimisation de forme
   - Optimisation numérique
   - Modélisation et calcul scientifique
+  - Projets interdisciplinaires
 
 # Publications et communications
 
@@ -111,5 +112,3 @@ permalink: /recherche/
   Soutenu le 29 août 2019\\
   ([mémoire](https://publications.polymtl.ca/4050),
   [présentation](/assets/master-soutenance.pdf))
-
-
