@@ -48,6 +48,10 @@ permalink: /research/
 
 ## Other oral presentations
 
+- **Mosaic Team Seminar**\\
+  Lyon, France, April 22, 2024\\
+  Variational problems in easy mode with automatic differentiation
+
 - **RDP Lab Meeting**\\
   Lyon, France, October 24, 2023\\
   A simple model for stoma opening

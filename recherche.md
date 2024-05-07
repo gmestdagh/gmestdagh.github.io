@@ -46,6 +46,10 @@ permalink: /recherche/
 
 ## Autres présentations orales
 
+- **Séminaire d'équipe Mosaic**\\
+  Lyon, France, 22 avrip 2024\\
+  Variational problems in easy mode with automatic differentiation
+
 - **Séminaire de laboratoire RDP**\\
   Lyon, France, 24 octobre 2023\\
   A simple model for stoma opening
