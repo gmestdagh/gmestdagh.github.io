@@ -54,7 +54,7 @@ permalink: /research/
   Évian-les-Bains, France, June 13-17, 2022\\
   Recalage élastique d'organe par une méthode de contrôle optimal
 
-- **SOFA Week 2021, Icube**\\
+- **SOFA Week 2021**\\
   Strasbourg, France, November 22-26, 2021\\
   An adjoint method for surface matching with SofaPython3\\
   ([recording](https://youtu.be/xxoUlOtAkWk?t=9946))
@@ -92,7 +92,7 @@ permalink: /research/
 - April 5 - **MLMS Seminar, ICube**, Strasbourg
 
 ### 2021
-- April 13 - **MLMS Seminar, Icube**, Strasbourg
+- April 13 - **MLMS Seminar, ICube**, Strasbourg
 ([slides](https://mlms.icube.unistra.fr/img_auth_namespace.php/a/af/The-talk-guillaume-Mestdagh-mlms2_compressed.pdf))
 
 - April 7, **Machine Learning Working Group, Institut de recherche mathématique avancée**, Strasbourg
