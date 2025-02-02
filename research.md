@@ -5,10 +5,9 @@ permalink: /research/
 
 # Research Interests
 
-  - Optimal control and shape optimization
-  - Numerical optimization
-  - Modeling and scientific computing
-  - Interdisciplinary interactions
+  - Optimal control and numerical optimization
+  - Physical modeling and scientific computing
+  - Applications in biology and biomedical engineering
 
 # Publications and Talks
 
@@ -28,7 +27,7 @@ permalink: /research/
     ([article](https://link.springer.com/article/10.1007/s11081-020-09484-0),
      [arxiv](https://arxiv.org/abs/2001.06474))
 
-## Conference papers
+## Conference proceedings
 
 {: reversed="reversed"}
 
@@ -44,68 +43,61 @@ permalink: /research/
     ([article](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8),
      [preprint](https://hal.inria.fr/hal-03691913))
 
+## Oral presentations in conferences
 
-
-## Other oral presentations
-
-- **Mosaic Team Seminar**\\
-  Lyon, France, April 22, 2024\\
-  Variational problems in easy mode with automatic differentiation
-
-- **RDP Lab Meeting**\\
-  Lyon, France, October 24, 2023\\
-  A simple model for stoma opening
-
-- **Mosaic Team Retreat**\\
-  Lyon, France, October 20, 2023\\
-  Just-in-time compilation in Python with Numba
-
-- **Math-Bio Sud-Est Working Group**\\
-  Lyon, France, September 14, 2023\\
-  Contrôle optimal pour le recalage d’organe en chirurgie augmentée
-
-- **Mosaic Team Seminar**\\
-  Lyon, France, May 22, 2023\\
-  A simple model for stoma opening
-
-- **Modeling/Control Team Seminar**\\
-  Strasbourg, France, December 13, 2022\\
-  An optimal control formulation for organ registration in augmented surgery
+- **Canum 2024**\\
+  Le-Bois-Plage-en-Ré, France, May 27-31, 2022\\
+  Modèle quasi-statique pour simuler les échanges ioniques dans les cellules de garde\\
+  ([slides](https://canum2024.math.cnrs.fr/programme/soumission/352c646d-26f9-4f12-ac12-5f9a9a9f619b/presentation.pdf))
 
 - **Canum 2022**\\
-  Évian-les-Bains, France, June 18, 2022\\
+  Évian-les-Bains, France, June 13-17, 2022\\
   Recalage élastique d'organe par une méthode de contrôle optimal
 
-- **MLMS Team Seminar**\\
-  Strasbourg, France, April 5, 2022\\
-  An optimal control problem for elastic registration and force estimation in augmented surgery
-
-- **SOFA Week 2021**\\
-  Strasbourg, France, November 23, 2021\\
+- **SOFA Week 2021, Icube**\\
+  Strasbourg, France, November 22-26, 2021\\
   An adjoint method for surface matching with SofaPython3\\
   ([recording](https://youtu.be/xxoUlOtAkWk?t=9946))
 
 - **Congress for Young Researchers in Applied Mathematics 2021**\\
   École polytechnique, Palaiseau, France, October 27-29, 2021\\
-  Optimal control for surface matching in liver surgery (poster)
+  Optimal control for surface matching in liver surgery
 
-- **10th Congress of *Société des mathématiques appliquées et industrielles***\\
+- **SMAI Congress 2021**\\
   La Grande-Motte, France, June 21-25, 2021\\
   Appariement de surfaces par contrôle optimal en chirurgie augmentée\\
-
-- **MLMS Team Seminar**\\
-  Strasbourg, France, April 13, 2021\\
-  An optimal control approach for surface-matching in augmented surgery\\
-  ([slides](https://mlms.icube.unistra.fr/img_auth_namespace.php/a/af/The-talk-guillaume-Mestdagh-mlms2_compressed.pdf))
-
-- **Machine Learning Working Group**\\
-  Strasbourg, France, April 7, 2021\\
-  Optimization methods in Machine Learning: Adam and RMSProp\\
-  ([recording](https://bbb-prod-rp.unistra.fr/playback/presentation/2.0/playback.html?meetingId=a6dd80e61735653621a7b48c5e02dca53076c372-1617797090086&t=29m05s) in French)
 
 - **Optimization Days**\\
   HEC Montréal, Montreal QC, Canada, May 13-15, 2019\\
   Scaled methods for computed tomography in cylindrical coordinates
+
+## Other oral presentations
+
+### 2025
+- January 13 - **Mosaic Seminar, RDP**, Lyon
+
+### 2024
+- November 18 - **Monc Seminar, Institut de mathématiques de Bordeaux**, Bordeaux
+- September 19 - **Rapsodi Seminar, Laboratoire Paul Painlevé**, Lille
+- April 22 - **Mosaic Seminar, RDP**, Lyon
+
+### 2023
+- October 24, **Lab Seminar, Reproduction et développement des plantes**, Lyon
+- October 20, **Mosaic Seminar, RDP**, Lyon
+- September 14, **Math-Bio Sud-Est Working Group, UMPA**, Lyon
+- May 22, **Mosaic Seminar, RDP**, Lyon
+
+### 2022
+- December 13 - **MOCO Seminar, Institut de recherche mathématique avancée**, Strasbourg
+- April 5 - **MLMS Seminar, ICube**, Strasbourg
+
+### 2021
+- April 13 - **MLMS Seminar, Icube**, Strasbourg
+([slides](https://mlms.icube.unistra.fr/img_auth_namespace.php/a/af/The-talk-guillaume-Mestdagh-mlms2_compressed.pdf))
+
+- April 7, **Machine Learning Working Group, Institut de recherche mathématique avancée**, Strasbourg
+  ([recording](https://bbb-prod-rp.unistra.fr/playback/presentation/2.0/playback.html?meetingId=a6dd80e61735653621a7b48c5e02dca53076c372-1617797090086&t=29m05s) in French)
+
 
 ## Unpublished
 
