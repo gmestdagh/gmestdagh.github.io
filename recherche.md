@@ -11,6 +11,14 @@ permalink: /recherche/
 
 # Publications et communications
 
+## Pré-publications
+
+{: reversed="reversed"}
+
+1.  **Multi-physics modeling for ion homeostasis in multi-compartment plant cells using an energy function**\\
+    G. Mestdagh, A. De Angeli, C. Godin (2025)\\
+    ([preprint](https://hal.science/hal-04901993v1))
+
 ## Articles de journal
 
 {: reversed="reversed"}
@@ -25,13 +33,13 @@ permalink: /recherche/
     G. Mestdagh, Y. Goussard & D. Orban.
     *Optimization and Engineering* (2020)\\
     ([article](https://link.springer.com/article/10.1007/s11081-020-09484-0),
-     [arxiv](https://arxiv.org/abs/2001.06474))
+     [preprint](https://arxiv.org/abs/2001.06474))
 
 ## Comptes rendus de conférence
 
 {: reversed="reversed"}
 
-2.  **Real-time Elastic Partial Shape Matching Using a Neural Network-Based Adjoint Method**\\
+1.  **Real-time Elastic Partial Shape Matching Using a Neural Network-Based Adjoint Method**\\
     A. Odot, G. Mestdagh, Y. Privat, S. Cotin.
     *Optimization and Learning - OLA 2023*, Mai 2023, Malaga, Espagne\\
     ([article](https://link.springer.com/chapter/10.1007/978-3-031-34020-8_10),
