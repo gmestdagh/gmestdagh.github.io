@@ -5,6 +5,18 @@ permalink: /cv/
 
 ## Recherche et stages
 
+- **2025-2026 &mdash; Centre Inria de Grenoble, Grenoble, France**\\
+  Post-doctorat dans l'équipe Inria Tripop (Systèmes dynamiques non lisses pour
+  la modélisation du risque naturel en montagne)\\
+  Collaborateurs : Vincent Acary (mécanique non lisse) et Matthieu Weiss
+  (sécurité des remontées mécaniques) \\
+  Collaboration industrielle avec le Service technique des remontées
+  mécaniques et des transports guidés (STRMTG).\\
+  Formulation de problèmes variationnels pour modéliser la dynamique
+  de câbles inextensibles. \\
+  Développement d'un logiciel de simulation dynamique des transports par
+  câble.
+
 - **2023-2025 &mdash; ENS de Lyon, Lyon, France**\\
   Post-doctorat dans l'équipe Inria Mosaic (Morphogenesis: simulation and
   analysis in silico)\\

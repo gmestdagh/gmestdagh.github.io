@@ -5,10 +5,20 @@ permalink: /cv_en/
 
 ## Research and Internships
 
+- **2025-2026 &mdash; Inria, Grenoble, France**\\
+  Post-doc in the Inria Tripop team (Nonsmooth dynamical systems for
+  natural risk modeling in mountains)\\
+  Collaborators: Vincent Acary (nonsmooth dynamics) and Matthieu Weiss
+  (safety of cable transports) \\
+  Industrial partnership with the French Technical service for cable and guided
+  transports (STRMTG).\\
+  Formulate variational problems for the dynamics of inextensible cables. \\
+  Dévelop software for cable transport dynamic simulation.
+
 - **2023-2025 &mdash; ENS de Lyon, Lyon, France**\\
   Post-doc in the Inria Mosaic team (Morphogenesis: simulation and
   analysis in silico)\\
-  Collaborators : Christophe Godin (biophysics) and Alexis De Angeli
+  Collaborators: Christophe Godin (biophysics) and Alexis De Angeli
   (biology) \\
   Model and simulate ions and water fluxes in guard cells during stomata opening
   and closing.\\

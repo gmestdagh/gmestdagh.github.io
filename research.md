@@ -5,9 +5,9 @@ permalink: /research/
 
 # Research Interests
 
-  - Optimal control and numerical optimization
-  - Physical modeling and scientific computing
-  - Applications in biology and biomedical engineering
+  - Numerical optimization and scientific computing
+  - Variational problems and optimal control
+  - Modeling in nonsmooth mechanics and complex materials
 
 # Publications and Talks
 

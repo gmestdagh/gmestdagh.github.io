@@ -4,9 +4,19 @@ layout: french
 
 # Bienvenue sur ma page professionnelle
 
-Depuis février 2023, je suis post-doctorant dans l'équipe Inria
+Depuis mai 2025, je suis post-doctorant dans l'équipe [Tripop][tripop] au
+centre Inria de Grenoble.
+Je travaille sur la simulation dynamique des câbles de remontées mécanique,
+en collaboration avec [Vincent Acary][vacary] et Matthieu Weiss
+([STRMTG][strmtg]).
+
+[strmtg]: https://www.strmtg.developpement-durable.gouv.fr/spip.php?page=sommaire
+[vacary]: https://tripop.inrialpes.fr/people/acary/
+[tripop]: https://tripop.inrialpes.fr/
+
+De 2023 à 2025, j'étais post-doctorant dans l'équipe Inria
 [Mosaic][mosaic] à l'École normale supérieure de Lyon.
-Je travaille sur le projet ANR [Netflux][netflux] en collaboration avec
+Je travaillais sur le projet ANR [Netflux][netflux] en collaboration avec
 [Christophe Godin][cgodin] et [Alexis De Angeli][adeangeli].
 
 [mosaic]: https://team.inria.fr/mosaic/
@@ -40,9 +50,9 @@ mathématiques et génie industriel).
 ## Contact
 
 **Coordonnées**\\
-Équipe Mosaic\\
-Laboratoire RDP\\
-ENS de Lyon\\
-46, allée d’Italie\\
-69364 Lyon Cedex 07\\
+Équipe Tripop\\
+Centre de recherche Inria de l'Université Grenoble Alpes\\
+Inovallée\\
+655 Avenue de l’Europe - CS 90051\\
+38334 Montbonnot CEDEX\\
 FRANCE

@@ -5,7 +5,16 @@ permalink: /home/
 
 # Welcome to my professional page
 
-Since February 2023, I have been working as a post-doctoral researcher in the
+I started in May 2025 a postdoctoral contract in the [Tripop][tripop] team in
+Grenoble, France.
+I work on the dynamic simulations of ski lift cables, with
+[Vincent Acary][vacary] and Matthieu Weiss ([STRMTG][strmtg]).
+
+[strmtg]: https://www.strmtg.developpement-durable.gouv.fr/spip.php?page=sommaire
+[vacary]: https://tripop.inrialpes.fr/people/acary/
+[tripop]: https://tripop.inrialpes.fr/
+
+From February 2023 to Avril 2025, I worked as a post-doctoral researcher in the
 Inria [Mosaic][mosaic] team at École normale supérieure de Lyon.
 I am working for the [Netflux ANR project][netflux], in collaboration with
 [Christophe Godin][cgodin] and [Alexis De Angeli][adeangeli].
@@ -39,10 +48,10 @@ Mathematics and Industrial Engineering).
 ## Contact
 
 **Mailing Address**\\
-Équipe Mosaic\\
-Laboratoire RDP\\
-ENS de Lyon\\
-46, allée d’Italie\\
-69364 Lyon Cedex 07\\
+Équipe Tripop\\
+Centre de recherche Inria de l'Université Grenoble Alpes\\
+Inovallée\\
+655 Avenue de l’Europe - CS 90051\\
+38334 Montbonnot CEDEX\\
 FRANCE
 

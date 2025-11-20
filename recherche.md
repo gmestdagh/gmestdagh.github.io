@@ -5,9 +5,9 @@ permalink: /recherche/
 
 # Thèmes de recherche
 
-  - Commande optimale et optimisation numérique
-  - Modélisation physique et calcul scientifique
-  - Applications en biologie et en santé
+  - Optimisation numérique et calcul scientifique
+  - Problèmes variationnels et commande optimale
+  - Modélisation en mécanique non-lisse et matériaux complexes
 
 # Publications et communications
 
