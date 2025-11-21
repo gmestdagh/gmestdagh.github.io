@@ -17,7 +17,8 @@ permalink: /research/
 
 1.  **Multi-physics modeling for ion homeostasis in multi-compartment plant cells using an energy function**\\
     G. Mestdagh, A. De Angeli, C. Godin (2025)\\
-    ([preprint](https://hal.science/hal-04901993v1))
+    ([article](https://doi.org/10.1371/journal.pcbi.1013474),
+     [preprint](https://hal.science/hal-04901993v2))
 
 ## Journal articles
 

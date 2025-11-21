@@ -1,8 +1,8 @@
 
 # Name and description
 name: Guillaume Mestdagh
-description: Modélisation, contrôle optimal, optimisation numérique
-description_en: Modeling, optimal control, numerical optimization
+description: Problèmes variationnels, optimisation numérique, mécanique non-lisse
+description_en: Variational problems, numerical optimization, nonsmooth mechanics
 
 # Photo
 #avatar: https://robohash.org/gmestdagh

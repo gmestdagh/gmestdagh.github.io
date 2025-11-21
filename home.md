@@ -7,7 +7,7 @@ permalink: /home/
 
 I started in May 2025 a postdoctoral contract in the [Tripop][tripop] team in
 Grenoble, France.
-I work on the dynamic simulations of ski lift cables, with
+I work on the dynamic simulations of cable transports, with
 [Vincent Acary][vacary] and Matthieu Weiss ([STRMTG][strmtg]).
 
 [strmtg]: https://www.strmtg.developpement-durable.gouv.fr/spip.php?page=sommaire

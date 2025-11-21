@@ -10,7 +10,7 @@ permalink: /cv/
   la modélisation du risque naturel en montagne)\\
   Collaborateurs : Vincent Acary (mécanique non lisse) et Matthieu Weiss
   (sécurité des remontées mécaniques) \\
-  Collaboration industrielle avec le Service technique des remontées
+  Partenariat industriel avec le Service technique des remontées
   mécaniques et des transports guidés (STRMTG).\\
   Formulation de problèmes variationnels pour modéliser la dynamique
   de câbles inextensibles. \\
