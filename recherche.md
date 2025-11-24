@@ -11,7 +11,11 @@ permalink: /recherche/
 
 # Publications et communications
 
-## Pré-publications
+<!-- ## Pré-publications
+
+{: reversed="reversed"} -->
+
+## Articles de journal
 
 {: reversed="reversed"}
 
@@ -20,10 +24,6 @@ permalink: /recherche/
     *PLoS Computational Biology* (2025)\\
     ([article](https://doi.org/10.1371/journal.pcbi.1013474),
      [preprint](https://hal.science/hal-04901993v2))
-
-## Articles de journal
-
-{: reversed="reversed"}
 
 1.  **Organ registration in augmented surgery from an optimal control perspective**\\
     S. Cotin, G. Mestdagh, Y. Privat.
