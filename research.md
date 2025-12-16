@@ -45,7 +45,7 @@ permalink: /research/
     A. Odot, G. Mestdagh, Y. Privat, S. Cotin.
     *Optimization and Learning - OLA 2023*, May 2023, Malaga, Spain\\
     ([article](https://link.springer.com/chapter/10.1007/978-3-031-34020-8_10),
-     [preprint](https://hal.inria.fr/hal-04019777v1))
+     [preprint](https://inria.hal.science/hal-04176808v1))
 
 1.  **An Optimal Control Problem for Elastic Registration and Force Estimation in Augmented Surgery** \\
     G. Mestdagh, S. Cotin.
@@ -54,6 +54,10 @@ permalink: /research/
      [preprint](https://hal.inria.fr/hal-03691913))
 
 ## Oral presentations in conferences
+
+- **SMAI Congress 2025**\\
+  Carcans-Maubuisson, France, June 2-6, 2025\\
+  Modélisation multiphysique des échanges d’ions et d’eau dans les cellules de plante\\
 
 - **Canum 2024**\\
   Le-Bois-Plage-en-Ré, France, May 27-31, 2022\\
@@ -84,6 +88,7 @@ permalink: /research/
 ## Other oral presentations
 
 ### 2025
+- July 1 - **Tripop Seminar, Inria**, Grenoble
 - January 13 - **Mosaic Seminar, RDP**, Lyon
 
 ### 2024
