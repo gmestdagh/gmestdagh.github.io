@@ -55,6 +55,10 @@ permalink: /research/
 
 ## Oral presentations in conferences
 
+- **Meeting of the GDR Plant Physics**\\
+  Carry-le-Rouet, France, April 1-3, 2026\\
+  Variational formulations for vertex-based plant tissue models
+
 - **SMAI Congress 2025**\\
   Carcans-Maubuisson, France, June 2-6, 2025\\
   Modélisation multiphysique des échanges d’ions et d’eau dans les cellules de plante\\
@@ -88,7 +92,7 @@ permalink: /research/
 ## Other oral presentations
 
 ### 2025
-- July 1 - **Tripop Seminar, Inria**, Grenoble
+- July 1 - **Tripop Seminar, Centre Inria Grenoble Alpes**, Grenoble
 - January 13 - **Mosaic Seminar, RDP**, Lyon
 
 ### 2024

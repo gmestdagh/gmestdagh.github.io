@@ -55,8 +55,12 @@ permalink: /recherche/
 
 ## Présentations dans des conférences
 
+- **Rencontres du GDR Physique des plantes**\\
+  Carry-le-Rouet, France, 1-3 avril 2026\\
+  Variational formulations for vertex-based plant tissue models
+
 - **Congrès SMAI 2025**\\
-  Carcans-Maubuisson, France, 2-6 juin, 2025\\
+  Carcans-Maubuisson, France, 2-6 juin 2025\\
   Modélisation multiphysique des échanges d’ions et d’eau dans les cellules de plante\\
 
 - **Canum 2024**\\
