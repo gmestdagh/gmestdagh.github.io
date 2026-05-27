@@ -55,6 +55,10 @@ permalink: /recherche/
 
 ## Présentations dans des conférences
 
+- **Contact Mechanics International Symposium - CMIS 2026**\\
+  Lugano, Suisse, 21-24 avril 2026\\
+  Dynamic cable simulation for ropeway transport systems
+
 - **Rencontres du GDR Physique des plantes**\\
   Carry-le-Rouet, France, 1-3 avril 2026\\
   Variational formulations for vertex-based plant tissue models
