@@ -7,7 +7,7 @@ permalink: /recherche/
 
   - Optimisation numérique et calcul scientifique
   - Problèmes variationnels et commande optimale
-  - Modélisation en mécanique non-lisse et matériaux complexes
+  - Simulation directe et inverse en biomécanique
 
 # Publications et communications
 

@@ -1,8 +1,8 @@
 
 # Name and description
 name: Guillaume Mestdagh
-description: Problèmes variationnels, optimisation numérique, mécanique non-lisse
-description_en: Variational problems, numerical optimization, nonsmooth mechanics
+description: Problèmes variationnels, simulation (bio)mécanique, problèmes inverses
+description_en: Variational problems, (bio)mechanical simulation, inverse problems
 
 # Photo
 #avatar: https://robohash.org/gmestdagh

@@ -7,7 +7,7 @@ permalink: /research/
 
   - Numerical optimization and scientific computing
   - Variational problems and optimal control
-  - Modeling in nonsmooth mechanics and complex materials
+  - Direct and inverse simulation in biomechanics
 
 # Publications and Talks
 
