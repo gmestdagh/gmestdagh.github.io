@@ -6,14 +6,18 @@ permalink: /recherche/
 # Thèmes de recherche
 
   - Optimisation numérique et calcul scientifique
-  - Problèmes variationnels et commande optimale
+  - Création et simulation de modèles multi-physiques ou non-lisses
   - Simulation directe et inverse en biomécanique
 
 # Publications et communications
 
-<!-- ## Pré-publications
+## Pré-publications
 
-{: reversed="reversed"} -->
+1.  **Dynamic finite-element simulation of monocable aerial ropeways**\\
+    G. Mestdagh, C. Bertrand, M. Weiss, V. Acary (2026).\\
+    ([preprint](https://hal.science/hal-05799976))
+
+{: reversed="reversed"}
 
 ## Articles de journal
 

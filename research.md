@@ -6,14 +6,18 @@ permalink: /research/
 # Research Interests
 
   - Numerical optimization and scientific computing
-  - Variational problems and optimal control
+  - Creation and simulation of multi-physics and non-smooth models
   - Direct and inverse simulation in biomechanics
 
 # Publications and Talks
 
-<!-- ## Preprints
+## Preprints
 
-{: reversed="reversed"} -->
+1.  **Dynamic finite-element simulation of monocable aerial ropeways**\\
+    G. Mestdagh, C. Bertrand, M. Weiss, V. Acary (2026).\\
+    ([preprint](https://hal.science/hal-05799976))
+
+{: reversed="reversed"}
 
 ## Journal articles
 
