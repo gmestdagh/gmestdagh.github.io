@@ -11,11 +11,15 @@ permalink: /research/
 
 # Publications and Talks
 
+[[Google Scholar](https://scholar.google.com/citations?user=q2sAWl8AAAAJ&hl=fr&oi=ao)]
+[[Orcid](https://orcid.org/0009-0006-5962-9147)]
+
 ## Preprints
 
 1.  **Dynamic finite-element simulation of monocable aerial ropeways**\\
     G. Mestdagh, C. Bertrand, M. Weiss, V. Acary (2026).\\
-    ([preprint](https://hal.science/hal-05799976))
+    ([preprint](https://hal.science/hal-05799976),
+     [code](https://gitlab.inria.fr/tripop/charlelie))
 
 {: reversed="reversed"}
 
@@ -27,13 +31,15 @@ permalink: /research/
     G. Mestdagh, A. De Angeli, C. Godin.
     *PLoS Computational Biology* (2025)\\
     ([article](https://doi.org/10.1371/journal.pcbi.1013474),
-     [preprint](https://hal.science/hal-04901993v2))
+     [preprint](https://hal.science/hal-04901993v2),
+     [code](https://github.com/gmestdagh/quasistatic-guard-cell-homeostasis))
 
 1.  **Organ registration in augmented surgery from an optimal control perspective**\\
     S. Cotin, G. Mestdagh, Y. Privat.
     *Proceedings of the Royal Society A* (2024)\\
     ([article](https://dx.doi.org/10.1098/rspa.2023.0197),
-     [preprint](https://hal.science/hal-04043695v2))
+     [preprint](https://hal.science/hal-04043695v2),
+     [code](https://github.com/gmestdagh/adjoint-elastic-registration))
 
 1.  **Scaled projected-directions methods with application to transmission tomography** \\
     G. Mestdagh, Y. Goussard & D. Orban.
@@ -55,7 +61,8 @@ permalink: /research/
     G. Mestdagh, S. Cotin.
     *Medical Image Computing and Computer Assisted Intervention - MICCAI 2022*, September 2022, Singapore\\
     ([article](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_8),
-     [preprint](https://hal.inria.fr/hal-03691913))
+     [preprint](https://hal.inria.fr/hal-03691913),
+     [code](https://github.com/gmestdagh/adjoint-elastic-registration))
 
 ## Oral presentations in conferences
 

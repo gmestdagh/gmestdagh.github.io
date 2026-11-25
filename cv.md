@@ -1,6 +1,6 @@
 ---
 layout: english
-permalink: /cv_en/
+permalink: /cv/
 ---
 
 ## Research and Internships
