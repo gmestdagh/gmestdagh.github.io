@@ -1,6 +1,5 @@
 ---
 layout: english
-permalink: /home/
 ---
 
 # Welcome to my professional page
