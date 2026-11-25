@@ -1,8 +1,7 @@
 
 # Name and description
 name: Guillaume Mestdagh
-description: Problèmes variationnels, simulation (bio)mécanique, problèmes inverses
-description_en: Variational problems, (bio)mechanical simulation, inverse problems
+description: Biomechanical simulations, scientific computing, inverse problems
 
 # Photo
 #avatar: https://robohash.org/gmestdagh
@@ -12,7 +11,7 @@ avatar: "/assets/portrait.jpeg"
 footer-links:
   email:
   github: gmestdagh
-  linkedin:
+  linkedin: guillaume-m-922777108
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>

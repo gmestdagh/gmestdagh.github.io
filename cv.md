@@ -1,76 +1,69 @@
 ---
-layout: french
-permalink: /cv/
+layout: english
+permalink: /cv_en/
 ---
 
-## Recherche et stages
+## Research and Internships
 
-- **2025-2026 &mdash; Centre Inria de Grenoble, Grenoble, France**\\
-  Post-doctorat dans l'équipe Inria Tripop (Systèmes dynamiques non lisses pour
-  la modélisation du risque naturel en montagne)\\
-  Collaborateurs : Vincent Acary (mécanique non lisse) et Matthieu Weiss
-  (sécurité des remontées mécaniques) \\
-  Partenariat industriel avec le Service technique des remontées
-  mécaniques et des transports guidés (STRMTG).\\
-  Formulation de problèmes variationnels pour modéliser la dynamique
-  de câbles inextensibles. \\
-  Développement d'un logiciel de simulation dynamique des transports par
-  câble.
+- **2025-2026 &mdash; Inria, Grenoble, France**\\
+  Post-doc in the Inria Tripop team (Nonsmooth dynamical systems for
+  natural risk modeling in mountains)\\
+  Collaborators: Vincent Acary (nonsmooth dynamics) and Matthieu Weiss
+  (safety of cable transports) \\
+  Industrial partnership with the French Technical service for cable and guided
+  transports (STRMTG).\\
+  Formulate variational problems for the dynamics of inextensible cables. \\
+  Dévelop software for cable transport dynamic simulation.
 
 - **2023-2025 &mdash; ENS de Lyon, Lyon, France**\\
-  Post-doctorat dans l'équipe Inria Mosaic (Morphogenesis: simulation and
+  Post-doc in the Inria Mosaic team (Morphogenesis: simulation and
   analysis in silico)\\
-  Collaborateurs : Christophe Godin (biophysique) et Alexis De Angeli
-  (biologie) \\
-  Modélisation et simulation des flux d'ions et d'eau dans les cellules de
-  garde au niveau des stomates.\\
-  Choix d'un compromis entre la simplicité du modèle et son exhaustivité.
+  Collaborators: Christophe Godin (biophysics) and Alexis De Angeli
+  (biology) \\
+  Model and simulate ions and water fluxes in guard cells during stomata opening
+  and closing.\\
+  Create a simple model to highlight the most important protagonists in this
+  biolological process.
 
 - **2019-2022 &mdash; Université de Strasbourg, Strasbourg, France**\\
-  Doctorat à l'Institut de recherche mathématique avancée.\\
-  Direction : Yannick Privat (Mathématiques) et Stéphane Cotin (Biomécanique).\\
-  Recalage volumique du foie à partir de données de surface partielles en
-  chirurgie augmentée.\\
-  Contrôle optimal de modèles hyperélastiques.\\
-  Étude théorique et implémentation de méthodes numériques à l'aide du logiciel
-  SOFA.
+  PhD in Applied Mathematics.\\
+  Advisors: Yannick Privat (Mathematics) and Stéphane Cotin (Biomechanics).\\
+  Volumic liver registration from partial surface data in augmented surgery.\\
+  Optimal control of hyperelastic models.\\
+  Studied problem theoretically and implemented numerical methods in the
+  SOFA famework.
 
-- **2017-2019 &mdash; Polytechnique Montréal, Montréal, Canada**\\
-  Master de sciences appliquées au département de Génie électrique.\\
-  Direction : Yves Goussard (Génie électrique) et Dominique Orban
-  (Mathématiques).\\
-  Adaptation de méthodes de Newton et quasi-Newton pour la reconstruction
-  tomographique en coordonnées cylindriques.\\
-  Développement d'une stratégie de mise à l'échelle pour problèmes mal
-  conditionnés avec contraintes.
+- **2017-2019 &mdash; Polytechnique Montréal, Montreal QC, Canada**\\
+  Master of Applied Sciences at the Department of Electrical Engineering.\\
+  Advisors : Yves Goussard (Electrical Engineering) and Dominique Orban
+  (Mathematics).\\
+  Adapted Newton and quasi-Newton methods for tomographic reconstruction in
+  cylindrical coordinates.\\
+  Developed a scaling strategy for ill-conditioned problems with constraints.
 
-- **2017 &mdash; Massachussets Institute of Technology, Cambridge, USA**\\
-  Stage de recherche au département de Génie mécanique.\\
-  Direction : Rohan Abeyaratne (Génie mécanique).\\
-  Étude de la théorie des mixtures et comparaison de différents modèles
-  théoriques d'hydrogels.
+- **2017 &mdash; Massachussets Institute of Technology, Cambridge MA, USA**\\
+  Research internship at the Department of Mechanical Engineering.\\
+  Advisor : Rohan Abeyaratne (Mechanical Engineering).\\
+  Studied the Continuum Mixture Theory and compared several theoretical
+  hydrogel models.
 
 - **2016 &mdash; Thales Alenia Space, Cannes, France**\\
-  Stage en entreprise au département des avant-projets de satellites.\\
-  Analyse de mission et dimensionnement d'une petite plate-forme
-  d'observation de la Terre.
+  Operational internship at the Department of Advanced Satellite Projects.\\
+  Designed a small Earth observation platform and performed mission analysis.
 
-## Formation
+## Education
 
 - **2014-2017 &mdash; École polytechnique, Palaiseau, France**\\
-  Diplôme d'ingénieur avec spécialisation en mécanique et mathématiques appliquées.
+  Master of Engineering with specialization in Mechanics and Applied Mathematics.
 
-- **2012-2014 &mdash; Lycée Faidherbe, Lille, France**\\
-  Classes préparatoires Mathématiques et physique.
+## Other competences
 
-## Divers
+- **Languages**\\
+  French &ndash; Mother tongue\\
+  English  &ndash; Working proficiency\\
+  German &ndash; Basic
 
-- **Langues**\\
-  Français &ndash; Langue maternelle\\
-  Anglais  &ndash; Fonctionnel\\
-  Allemand &ndash; Scolaire
-
-- **Calcul scientifique**\\
+- **Scientific computing**\\
   Python (Numpy, Scipy, Jax, Fenics, Pybind) \\
   Julia \\
   Matlab \\
